@@ -1,4 +1,2 @@
-# lab1.1-entorno-colaborativo
-# Integrantes
-# Andrea Hidalgo 
-# David Campoverde 
+# Materia:
+# DESARROLLO DE SOFTWARE APLICADO (26780)
