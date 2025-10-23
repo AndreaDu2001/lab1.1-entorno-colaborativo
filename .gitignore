@@ -1,0 +1,12 @@
+# Archivos del Sistema Operativo
+.DS_Store
+Thumbs.db
+
+# Archivos de depuración y temporales
+*.log
+*.tmp
+*.swp
+
+# Dependencias comunes (ej. Node.js o Python)
+/node_modules
+__pycache__
